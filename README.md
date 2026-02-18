@@ -36,7 +36,6 @@ Sistema para **gerenciar ocorrências de emergência** (Incêndio, Resgate, Acid
 ### 🛠️ Tools
 
 - **Docker / Docker Compose**
-- **Laragon** (domínio `.test`)
 - **WSL2**
 
 ---
